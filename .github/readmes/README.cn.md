@@ -10,6 +10,9 @@
 
 [🇺🇸English](README.md) | [🇨🇳中文](README.cn.md) | [🇯🇵日本語](README.ja.md) | [🇹🇷Türk dili](README.tr.md)
 
+## macOS Catalina (10.15)
+如果你在使用 macOS Catalina (10.15), 请[点击这里](https://pock.dev/docs/catalina.html)阅读我们的建议来获取更好的体验。
+
 ## 感谢!
 
 如果你想支持这个项目，你可以[点击这里](https://paypal.me/pigigaldi)！
